@@ -1,4 +1,4 @@
-var palabras = ["Sushi","Pizza","Pasta", "Hamburger",Recomendacion"];
+var palabras = ["Sushi","Pizza","Pasta","Hamburger","Recomendacion"];
 var aleatorio = [Math.floor(Math.random() * palabras.length)];
 var palabra = palabras [aleatorio];
 var hombre, l, espacio;
